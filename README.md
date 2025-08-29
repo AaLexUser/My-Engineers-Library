@@ -18,6 +18,9 @@
 - **AI News** [newsletter](https://news.smol.ai/), daily roundup of top AI discussions from Discord, Reddit, and X/Twitt
 - **Latent Space** [podcast](https://www.latent.space/podcast), deep dives and interview episodes
 
+### Other
+- **AI Engineering Library**, [docs page](https://langfuse.com/library), *by Langfuse*
+
 ## Engineering
 - **A Detailed Explanation of The KISS Principle in Software**, [blog post](https://thevaluable.dev/kiss-principle-explained/), *by Matthieu Cneude*, [ru version](https://habr.com/ru/articles/782094/)
 - **The Wrong Abstraction**, [blog post](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction), *by Sandi Metz*

@@ -20,4 +20,5 @@
 
 ## Engineering
 - **A Detailed Explanation of The KISS Principle in Software**, [blog post](https://thevaluable.dev/kiss-principle-explained/), *by Matthieu Cneude*, [ru version](https://habr.com/ru/articles/782094/)
+- **The Wrong Abstraction**, [blog post](https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction), *by Sandi Metz*
 - **That boolean should probably be something else**, [blog post](https://ntietz.com/blog/that-boolean-should-probably-be-something-else/), *by Nicole Tietz-Sokolskaya*

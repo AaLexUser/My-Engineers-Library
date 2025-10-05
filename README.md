@@ -14,9 +14,10 @@
 - **Prompt Engineering Guide**, [docs page](https://www.promptingguide.ai/)
 - **Using GitHub Spark to reverse engineer GitHub Spark**, [blog post](https://simonwillison.net/2025/Jul/24/github-spark/), *by Simon Willison*
 
-### News
+### News, talks, workshops, events. 
 - **AI News** [newsletter](https://news.smol.ai/), daily roundup of top AI discussions from Discord, Reddit, and X/Twitt
 - **Latent Space** [podcast](https://www.latent.space/podcast), deep dives and interview episodes
+- **AI Engineer** [youtube](https://youtube.com/@aidotengineer?si=gNanmbxJa7p74JwQ), talks, workshops, events, and training for AI Engineers. 
 
 ### Other
 - **AI Engineering Library**, [docs page](https://langfuse.com/library), *by Langfuse*
